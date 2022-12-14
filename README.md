@@ -12,14 +12,13 @@
 
 - 🔭 I’m currently working in Publicis Sapient
 - 🌱 I’m currently learning **React.js, express.js,**
-💬 Ask me about **Reactjs** -
-📫 How to reach me **ravi.exe.doc@gmail.com** - 
-⚡ Fun fact **I love to try new frameworks and technologies ✨**
+💬 Ask me about **Reactjs** 
+- 📫 How to reach me **ravi.exe.doc@gmail.com** 
+- ⚡ Fun fact **I love to try new frameworks and technologies ✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://in.linkedin.com/in/ahkeravi" target="blank"
-    ><img
+  <a href="https://in.linkedin.com/in/ahkeravi" target="blank"><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Ravi-SD"
